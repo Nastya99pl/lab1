@@ -19,7 +19,7 @@ namespace WindowsFormsApplication2
         double[] T_next = new double[50];
         double[] T_cur = new double[50];
 
-        double[] tmp = new double[1];
+        
         public Form1()
         {
             InitializeComponent();
